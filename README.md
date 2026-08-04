@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ahmad Rivaldhi</h1>
-<h3 align="center">A passionate QA person</h3>
+<br>
 
-- 🌱 I’m currently learning **Java**
+> **hello.** i'm ahmad rivaldhi — most people call me rudi. i make software fail on purpose, so it won't in front of the people using it. for the past four years that's meant automation and api testing: currently at csg on a large telecom platform, with past lives at sekolah.mu and digiasia. i'd rather ship ten tests you can trust than fifty you can't.
 
-- 💬 Ask me about **Java**
+<br>
 
-- 📫 How to reach me **ahmadrivaldi77@gmail.com**
-  
-- ⚡ Fun fact: I love photography
+###### `what i do — skills`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-rivaldhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-rivaldhi" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadrivaldhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadrivaldhi" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmadrivaldi77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadrivaldi77" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| **comfortable** | playwright · java · selenium · api testing · ci/cd (gitlab ci · github actions) |
+| **working knowledge** | python · javascript · cypress · docker · sql · postman · jenkins |
+| **exploring** | camunda / bpmn · k6 at scale · figma |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sterbenmzrt&show_icons=true&locale=en&layout=compact" alt="sterbenmzrt" /></p>
+###### `selected work`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sterbenmzrt&show_icons=true&locale=en" alt="sterbenmzrt" /></p>
+| | | |
+|---|---|---|
+| └─ | **selenium → playwright migration** | 500+ scripts, wired into ci. faster, far less flake. |
+| └─ | **the grade edit that kept failing** | a production bug that turned out to be a missing requirement. |
+
+<sub>└── case studies live on <a href="#">the portfolio</a> — deploying soon.</sub>
+
+<br>
+
+###### `└── a note`
+
+> *not every failure is a code failure. some are the system meeting a real workflow no one wrote down.*
+
+<br>
+
+###### `find me`
+
+<sub>
+
+[email](mailto:ahmadrivaldi77@gmail.com) · [github](https://github.com/sterbenmzrt) · [linkedin](https://linkedin.com/in/ahmad-rivaldhi)
+
+</sub>
+
+<br>
+
+---
+
+<details>
+<summary><sub>└── github stats</sub></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sterbenmzrt&show_icons=true&bg_color=151513&text_color=A7A79F&icon_color=74B096&title_color=EDECE6&border_color=262623&hide_border=false&hide_title=false&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sterbenmzrt&show_icons=true&bg_color=F8F7F4&text_color=565651&icon_color=2F6A50&title_color=1B1B19&border_color=EEEDE7&hide_border=false&hide_title=false&count_private=true" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sterbenmzrt&show_icons=true&bg_color=151513&text_color=A7A79F&icon_color=74B096&title_color=EDECE6&border_color=262623&count_private=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sterbenmzrt&layout=compact&bg_color=151513&text_color=A7A79F&icon_color=74B096&title_color=EDECE6&border_color=262623&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sterbenmzrt&layout=compact&bg_color=F8F7F4&text_color=565651&icon_color=2F6A50&title_color=1B1B19&border_color=EEEDE7&hide_border=false" />
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sterbenmzrt&layout=compact&bg_color=151513&text_color=A7A79F&icon_color=74B096&title_color=EDECE6&border_color=262623" />
+</picture>
+
+</details>
